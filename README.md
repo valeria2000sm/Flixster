@@ -19,7 +19,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="YOUR_GIF_URL_HERE" width=250><br>
-![](walkthroughFlixster.gif)
+<img src="walkthroughFlixster.gif" width=250><br>
 
 ### Notes
 I struggled a bit with the potrait mode layout. I noticed that depending on how large the overview text is, it causes the item_movie to be larger and leaves the poster image to have white space. The simplest solution I found to fixing this was just decreasing the font size of the overview text for portrait mode. 
